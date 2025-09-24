@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&center=true&vCenter=true&width=600&height=60&color=00FF9C&duration=3000&lines=Hi+I'm+Abdullah;Full+Stack+%26+Data+Developer;CS+@+UBCO+%7C+Graduating+2026" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&center=true&vCenter=true&width=600&height=60&color=00FF9C&duration=3000&lines=Hi+I'm+Abdullah;Full+Stack+%26+Data+Developer;CS+@+UBCO+%7C+Graduating+2026" />
 </h1>
 
 ---
@@ -40,16 +40,15 @@
 
 ## GitHub Stats
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdullah-alkaf&theme=transparent&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-alkaf&theme=transparent&count_private=true&border_radius=10" alt="GitHub Streak" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-alkaf&theme=transparent&layout=donut&langs_count=8" alt="Top Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdullah-alkaf&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-alkaf&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## Quirky Corner
 <p align="center">
-  <!-- Snake animation (works after GitHub Action setup) -->
+  <!-- Snake animation (works after workflow runs) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah-alkaf/abdullah-alkaf/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah-alkaf/abdullah-alkaf/output/github-contribution-grid-snake.svg" />
@@ -57,16 +56,17 @@
   </picture>
 </p>
 
-<p align="center">
-  <!-- Random dev quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
 ---
 
 ## Connect With Me
 <p align="center">
-  <a href="mailto:abdullah.kaff11@gmail.com">Email</a> • 
-  <a href="https://linkedin.com/in/abdullah-alkaf">LinkedIn</a> • 
-  <a href="https://github.com/abdullah-alkaf">GitHub</a>
+  <a href="mailto:abdullah.kaff11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdullah-alkaf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdullah-alkaf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
