@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-alkaf/abdullah-alkaf/main/banner-placeholder.png" alt="Banner" width="100%" />
+  <img src="/images/vertex-designs-uW0Tj-GgaZw-unsplash.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">
