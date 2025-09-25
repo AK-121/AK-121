@@ -41,8 +41,8 @@
 
 ## GitHub Stats
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdullah-alkaf&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-alkaf&theme=tokyonight" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AK-121&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=AK-121&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
