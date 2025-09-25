@@ -28,10 +28,11 @@
 ## Featured Project
 ### Exam Generation & Analytics System (Capstone Project)
 - **Stack:** Django, React, PostgreSQL, JWT Auth, Docker  
-- Built an exam generator with randomized variants, CSV import/export, and analytics dashboards.  
-- Led a 5-member team, delivered a functional prototype in 12 weeks.  
+- Designed and implemented an exam generator supporting randomized variants, CSV import/export, and analytics dashboards.  
+- Led a 5-member team, coordinating development under a tight 12-week deadline.  
+- Selected as the **stakeholder’s top project choice**, currently under review for potential adoption.  
+- Repository is currently **private pending stakeholder approval** (public demo/code release to follow).  
 
-[🔗 View Repository](#)  
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdullah-alkaf/abdullah-alkaf/main/project-screenshot-placeholder.png" alt="Exam Generator Screenshot" width="80%" />
 </p>
@@ -46,7 +47,7 @@
 
 ---
 
-## Quirky Corner
+## SNAKEEEE
 <p align="center">
   <!-- Snake animation (works after workflow runs) -->
   <picture>
