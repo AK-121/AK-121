@@ -34,7 +34,7 @@
 - Repository is currently **private pending stakeholder approval** (public demo/code release to follow).  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-alkaf/abdullah-alkaf/main/project-screenshot-placeholder.png" alt="Exam Generator Screenshot" width="80%" />
+  <img src="/images/ExamVault-dashboard.png" alt="Exam Generator Dashboard Screenshot" width="80%" />
 </p>
 
 ---
